@@ -1,3 +1,12 @@
 [submodule "MAD_BIT"]
 	path = MAD_BIT
 	url = https://github.com/bluejeans8/MAD_BIT
+[submodule "ideal_world_cup"]
+	path = ideal_world_cup
+	url = https://github.com/bluejeans8/ideal_world_cup
+[submodule "Scuba_Diving"]
+	path = Scuba_Diving
+	url = https://github.com/bluejeans8/Scuba_Diving
+[submodule "Yunseol"]
+	path = Yunseol
+	url = https://github.com/bluejeans8/Yunseol
